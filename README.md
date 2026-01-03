@@ -5,6 +5,11 @@ It supports **task persistence using localStorage**, **check & strike functional
 
 ---
 
+## 🚀 Live Demo
+
+🌸 **Try the app here:**  
+👉 https://prerna-todo-app.netlify.app/
+
 ## ✨ Features
 
 - ➕ Add & update tasks
